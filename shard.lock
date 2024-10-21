@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  lib_glfw:
+    git: https://github.com/calebuharrison/libglfw.git
+    version: 0.1.0+git.commit.4cf7c3774f278d7e044bb30a35b104f5b12fdc53
+
